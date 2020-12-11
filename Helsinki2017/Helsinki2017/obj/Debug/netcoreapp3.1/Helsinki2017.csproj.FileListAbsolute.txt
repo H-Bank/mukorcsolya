@@ -1,0 +1,11 @@
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\bin\Debug\netcoreapp3.1\Helsinki2017.exe
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\bin\Debug\netcoreapp3.1\Helsinki2017.deps.json
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\bin\Debug\netcoreapp3.1\Helsinki2017.runtimeconfig.json
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\bin\Debug\netcoreapp3.1\Helsinki2017.runtimeconfig.dev.json
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\bin\Debug\netcoreapp3.1\Helsinki2017.dll
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\bin\Debug\netcoreapp3.1\Helsinki2017.pdb
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\obj\Debug\netcoreapp3.1\Helsinki2017.csprojAssemblyReference.cache
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\obj\Debug\netcoreapp3.1\Helsinki2017.AssemblyInfoInputs.cache
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\obj\Debug\netcoreapp3.1\Helsinki2017.AssemblyInfo.cs
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\obj\Debug\netcoreapp3.1\Helsinki2017.dll
+D:\_OKJ ONLINE\Englert\Helsinki2017\Helsinki2017\obj\Debug\netcoreapp3.1\Helsinki2017.pdb
